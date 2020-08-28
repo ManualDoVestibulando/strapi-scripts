@@ -25,3 +25,6 @@ Specifically for interacting with the API backend of manualdovestibulando.com.br
 
     - These scripts must be run from the folder containing the .png image files
     - Exam year must be added manually to the script
+- Student accounts are linked via Google Drive
+    - Links and titles are loaded into a CSV
+    - Relational field to course must be filled in manually
